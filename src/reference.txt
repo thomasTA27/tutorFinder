@@ -1,0 +1,13 @@
+IMAGES REFERENCES 
+
+THIS IMAGES HAVE BEEN TAKEN FROM UNSPLASH WEBSITE 
+https://images.unsplash.com/photo-1561089489-f13d5e730d72?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    
+
+https://plus.unsplash.com/premium_photo-1713296255442-e9338f42aad8?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+
+{/* <div className="hidden md:block bg-[url('https://plus.unsplash.com/premium_photo-1683134169138-9037062cba51?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center"></div>  */}
+
+
+{/* <div className="hidden md:block bg-[url('https://images.unsplash.com/photo-1575688588571-966e9b61f0b7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center"></div>  */}
